@@ -15,10 +15,12 @@ Nachdem ihr das Modpack [hier](https://github.com/esportubt/ubtrubel/releases) r
 > Wenn Minecraft nicht startet, liegt das wahrscheinlich an einer falschen Java-Version.
 
 #### Überprüfe deine Java Version
-Klicke dafür auf die hinzugefügte UBTrubel Instanz im PrismLauncher. Anschließend `Bearbeiten > Einstellungen > Java` und setzte einen Haken ✅ bei `Java-Installation`. Klicke jetzt auf `Auto-Erkennung...`. **Unterstützt werden nur Java Versionen `v17.x.y`**. Eventuell funktionieren aber auch neuere, wenn du den Haken ✅ bei `Java-Kompatibilitätsüberprüfung überspringen` setzt. Installiere dir ansonsten die richtige Java JDK.
+Klicke dafür auf die hinzugefügte UBTrubel Instanz im PrismLauncher. Anschließend `Bearbeiten > Einstellungen > Java` und setzte einen Haken ✅ bei `Java-Installation`. Klicke jetzt auf `Auto-Erkennung...`. Folgende Java Versionen funktionieren bekanntermaßen:
+
+- `v21.0.7`
 
 ## Server
-Die IP vom Server ist: **stark.dathost.net:17132**
+Die IP vom Server ist: **ubtrubel.esportubt.de:17132**
 
 > [!NOTE]
 > Der Server hat eine Whitelist. Ihr könnt euch unter [https://esportubt.de/ubtrubel](https://esportubt.de/ubtrubel) registrieren.

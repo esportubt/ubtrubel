@@ -1,0 +1,15 @@
+- [Balm](https://www.curseforge.com/projects/531761) [21\.10\.7] by BlayTheNinth
+- [Fabric API](https://www.curseforge.com/projects/306612) [0\.138\.3\+1\.21\.10] by FabricMC
+- [Fabric Language Kotlin](https://www.curseforge.com/projects/308769) [1\.13\.7\+kotlin\.2\.2\.21] by FabricMC
+- [Farmer's Delight](https://www.curseforge.com/projects/993166) [1\.21\.10\-3\.4\.1\+refabricated] by MehVahdJukaar, MerchantCalico
+- [Just Enough Items](https://www.curseforge.com/projects/238222) [26\.1\.0\.16] by mezz
+- [Macaw's Lights and Lamps](https://www.curseforge.com/projects/502372) [1\.1\.4] by SketchMacaw
+- [Nature's Compass](https://www.curseforge.com/projects/252848) [1\.21\.10\-2\.2\.9\-fabric] by ChaosTheDude
+- [Polymer](https://www.curseforge.com/projects/551890) [0\.14\.3\+1\.21\.10] by Patbox
+- [Simple Voice Chat](https://www.curseforge.com/projects/416089) [1\.21\.10\-2\.6\.6] by Max Henkel
+- [Storage Delight](https://www.curseforge.com/projects/978786) [25\.10\.13\-1\.21\.9\-fabric] by Axperty
+- [Storage Drawers](https://www.curseforge.com/projects/223852) [19\.1\.1] by Texelsaur
+- [Universal Graves](https://www.curseforge.com/projects/497175) [3\.9\.1\+1\.21\.9] by Patbox
+- [Waystones](https://www.curseforge.com/projects/245755) [21\.10\.3] by BlayTheNinth
+- [Xaero's Minimap](https://www.curseforge.com/projects/263420) [25\.2\.15] by xaero96
+- [Xaero's World Map](https://www.curseforge.com/projects/317780) [1\.39\.17] by xaero96
